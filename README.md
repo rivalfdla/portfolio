@@ -2,4 +2,4 @@
 
 ## Portfolio Using Tailwindcss
 
-View : [Here](https://rivalfdla.my.id)
+View : [Here](https://rivalfdla.github.io/portfolio)
